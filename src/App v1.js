@@ -9,6 +9,7 @@ function App() {
   return(
     <div>
       <Steps/>
+      <Steps/>
     </div>
   )
 }
@@ -50,6 +51,5 @@ function Steps() {
   </>
   )
 }
-
 
 export default App;
